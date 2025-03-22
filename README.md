@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @Abdelouahab-Aourar
-- 👀 I’m learning and I am found of design , software development, and web development.

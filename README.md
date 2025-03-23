@@ -1,5 +1,5 @@
 # 💫 Abdelouahab Aourar:
-Developer | Designer | Web Developer<br>🌱 I’m currently learning  **CyberSecurity**<br>📫 How to reach me  **wahabaourar00@gmail.com**
+Developer | Designer | Web Developer<br>🌱 I’m currently learning  **CyberSecurity**<br>📫 How to reach me  **wahabaourar00@gmail.com**<br>🏫ENSIA first year student.
 
 
 ## 🌐 Socials:

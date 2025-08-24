@@ -35,6 +35,9 @@ Software Developer | Graphic Designer | Web Developer<br>📫 How to reach me  *
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abdeloahab-aourar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

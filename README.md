@@ -1,5 +1,5 @@
 # 💫 Abdelouahab Aourar:
-Software Developer | Graphic Designer | Web Developer<br>📫 How to reach me  **abdelouahab.aourar@gmail.com**<br>🏫ENSIA first year student.
+Software Developer | Graphic Designer | Web Developer<br>📫 How to reach me  **abdelouahab.aourar@gmail.com**<br>🏫 Second Year Student at ENSIA.
 
 
 ## 🌐 Socials:

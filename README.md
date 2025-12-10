@@ -45,24 +45,6 @@ Software Developer | Graphic Designer | Web Developer<br>📫 How to reach me  *
 ![](https://github-readme-stats.vercel.app/api?username=Abdelouahab-aourar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abdelouahab-aourar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelouahab-aourar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<p align="center">
- <a href="https://github.com/Abdelouahab-aourar">
-    <img src="https://komarev.com/ghpvc/?username=Abdelouahab-aourar" alt="visitors" />
-  </a>
-</p>
-
-  
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Abdelouahab-aourar&theme=dark&show_icons=true&count_private=true" />
-</td>
-</tr>
-</table>
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abdeloahab-aourar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 

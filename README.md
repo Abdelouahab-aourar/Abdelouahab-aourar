@@ -46,12 +46,6 @@ Software Developer | Graphic Designer | Web Developer<br>📫 How to reach me  *
 ![](https://nirzak-streak-stats.vercel.app/?user=Abdelouahab-aourar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelouahab-aourar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelouahab-aourar&layout=compact&theme=dark" alt="Top Languages" />
-
-</div>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abdeloahab-aourar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 

@@ -43,11 +43,11 @@ Software Developer | Graphic Designer | Web Developer<br>📫 How to reach me  *
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelouahab-aourar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelouahab-aourar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 80%" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdelouahab-aourar&theme=dark&hide_border=false" alt="Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdelouahab-aourar&theme=dark&hide_border=false" alt="Streak Stats" style="width: 80%" />
   <br/>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abdelouahab-Aourar&theme=dark&hide_border=false&no-bg=false&no-frame=true&langs_count=10" alt="Top Langs" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abdelouahab-Aourar&theme=dark&hide_border=false&no-bg=false&no-frame=true&langs_count=10" alt="Top Langs" style="width: 80%" />
 </div>
 
 ## 🏆 GitHub Trophies

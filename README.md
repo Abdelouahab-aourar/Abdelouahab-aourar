@@ -43,7 +43,7 @@ Software Developer | Graphic Designer | Web Developer<br>📫 How to reach me  *
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelouahab-aourar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelouahab-aourar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 80%; max-width: 600px" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Abdelouahab-aourar&theme=dark&hide_border=false" alt="Streak Stats" style="width: 80%" />
   <br/>

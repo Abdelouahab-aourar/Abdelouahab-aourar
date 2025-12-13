@@ -42,9 +42,11 @@ Software Developer | Graphic Designer | Web Developer<br>📫 How to reach me  *
 
 
 # 📊 GitHub Stats:
+<div style="display: flex, flex-direction: column, align-items: center">
 ![](https://github-readme-stats.vercel.app/api?username=Abdelouahab-aourar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abdelouahab-aourar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abdelouahab-Aourar&theme=dark&hide_border=false&no-bg=false&no-frame=true&langs_count=10)
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abdeloahab-aourar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 

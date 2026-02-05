@@ -73,7 +73,7 @@ Software Developer | Graphic Designer | Web Developer<br>🏫 Second Year Studen
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdelouahab-aourar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdelouahab-aourar&theme=dark&hide_border=false" alt="Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdelouahab-aourar&theme=tokyonight&hide_border=false" alt="Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abdelouahab-Aourar&theme=dark&hide_border=false&no-bg=false&no-frame=true&langs_count=5&exclude_repo=JavaScript-MiniProjects,QR-Code-Generator" alt="Top Langs" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abdelouahab-Aourar&theme=tokyonight&hide_border=false&no-bg=false&no-frame=true&langs_count=5&exclude_repo=JavaScript-MiniProjects,QR-Code-Generator" alt="Top Langs" />
 </div>

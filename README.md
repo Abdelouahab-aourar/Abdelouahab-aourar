@@ -1,5 +1,5 @@
 # 💫 Abdelouahab Aourar:
-Software Developer | AI Enthusiast | Graphic Designer <br>🏫 Second Year Student at ENSIA.<br>📫 How to reach me  **abdelouahab.aourar@gmail.com**.
+Software Developer | AI Enthusiast <br>🏫 Second Year Student at ENSIA.<br>📫 How to reach me  **abdelouahab.aourar@gmail.com**.
 
 
 ## 🌐 Socials:

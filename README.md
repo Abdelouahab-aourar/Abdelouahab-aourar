@@ -1,11 +1,25 @@
-# 💫 Abdelouahab Aourar:
-Software Developer | AI Enthusiast <br>🏫 Second Year Student at ENSIA.<br>📫 How to reach me  **abdelouahab.aourar@gmail.com**.
+<div align="center">
+  
+  # Abdelouahab Aourar
+  
+</div>
 
+<div align="center">
+  
+  #### Software Developer | Web Developer | AI Enthusiast
+  ##### Second Year Student at ENSIA  
+</div>
+ 
 
-## 🌐 Socials:
-<a href="https://linkedin.com/in/aourar-abdelouahab" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" /></a> <img width="12" /> <a href="https://www.instagram.com/abdelouahab.aourar" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="40" alt="instagram" /></a> <img width="12" /> <a href="mailto:abdelouahab.aourar@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="gmail" /></a>
+<div align="center">
+  
+  ## Socials
+<a href="https://linkedin.com/in/aourar-abdelouahab" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" /></a> <img width="12" /> <a href="https://www.instagram.com/abdelouahab.aourar" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="40" alt="instagram" /></a> <img width="12" /> <a href="mailto:abdelouahab.aourar@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="gmail" /></a> 
+</div>
 
-# 💻 Tech Stack:
+<div align="center">
+  
+  ## Tech Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
@@ -68,10 +82,11 @@ Software Developer | AI Enthusiast <br>🏫 Second Year Student at ENSIA.<br>�
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-
-# 📊 GitHub Stats:
+</div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelouahab-aourar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+
+## GitHub Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelouahab-aourar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Abdelouahab-aourar&theme=tokyonight&hide_border=false" alt="Streak Stats" />
   <br/>

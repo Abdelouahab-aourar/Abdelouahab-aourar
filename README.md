@@ -14,7 +14,7 @@
 <div align="center">
   
   ## Socials
-<a href="https://linkedin.com/in/aourar-abdelouahab" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" /></a> <img width="12" /> <a href="https://www.instagram.com/abdelouahab.aourar" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="40" alt="instagram" /></a> <img width="12" /> <a href="mailto:abdelouahab.aourar@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="gmail" /></a> 
+<a href="https://linkedin.com/in/aourar-abdelouahab" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" /></a> <img width="12" /> <a href="https://www.instagram.com/abdelouahab.aourar" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="40" alt="instagram" /></a> <img width="12" /> <a href="mailto:abdelouahab.aourar@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="gmail" /></a><img width="12" /><a href="https://www.kaggle.com/abdelouahab05" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle"></a>
 </div>
 
 <div align="center">
